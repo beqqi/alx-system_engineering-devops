@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BREADTH**$LOVE))
+export PATH=$PATH:/action
